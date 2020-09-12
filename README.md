@@ -1,0 +1,1 @@
+ Solver of colored nonograms
